@@ -7,7 +7,7 @@ import { ProjectsComponent } from './projects/projects.component';
 import { SplashComponent } from './splash/splash.component';
 
 const appRoutes: Routes = [
-  { path: '', component: SplashComponent },
+  { path: '', component: ProjectsComponent },
   { path: 'projects', component: ProjectsComponent },
   { path: 'experience', component: AppComponent },
   { path: 'about', component: AppComponent },

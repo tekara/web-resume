@@ -2,3 +2,7 @@ body {
 	background-color: #262626;
 	color:white;
 }
+
+nav {
+	border-radius: 0;
+}
